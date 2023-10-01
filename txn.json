@@ -1,0 +1,22 @@
+{
+	"transactions": [
+		{
+			"id": 1,
+			"description": "detergent",
+            "amount": 1999,
+            "party_id": 1
+		},
+		{
+			"id": 1,
+			"description": "salt",
+            "amount": 1999,
+            "party_id": 1
+		},
+		{
+			"id": 1,
+			"description": "masala",
+            "amount": 1999,
+            "party_id": 1
+		}
+	]
+}
