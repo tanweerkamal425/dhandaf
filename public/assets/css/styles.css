@@ -284,14 +284,15 @@ table {
 	border-top-right-radius: 8px;
 }
 
+
 th {
-	/* background-color: rgba(226, 232, 240, 1); */
-	background-color: rgba(226, 232, 240, 1);
+	background-color: rgba(37, 0, 128, 1);
 	font-family: "Roboto", sans-serif;
 	font-weight: 400;
-	color: rgba(74, 85, 104, 1);
 	line-height: 18px;
 	padding: 8px;
+	font-weight: 600;
+	color: white;
 }
 
 td, a {
@@ -394,7 +395,7 @@ fieldset {
 label {
 	display: block;
 	margin: 16px 0;
-	font-size: 24px;
+	font-size: 16px;
 }
 
 .input {
@@ -406,7 +407,9 @@ label {
 	border: none;
 	border-radius: 8px;
 	line-height: 1;
-	font-size: 24px;
+	font-size: 16px;
+	border: 1px solid rgba(37, 0, 128, 1);
+/*	outline: rgba(37, 0, 128, 1);*/
 } 
 
 
